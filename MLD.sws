@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?PowerDesigner signature="Workspace" version="15.1.0.2850"?>
+<!-- Veuillez ne pas modifier ce fichier -->
+
+<Workspace>
+	<Local Expanded="Yes">
+		<Model Expanded="Yes" ID="{80DA1B48-BDCC-4171-95A6-C52FF02F238E}" Name="ModeleLogiqueDonnees_1" OpenedReadOnly="Yes" Type="{5F45F978-C4F3-4E35-A3FC-AF3318663A0F}" URL="ModeleLogique de donnee.mld"/>
+		<Model Expanded="Yes" ID="{80DA1B48-BDCC-4171-95A6-C52FF02F238E}" Name="ModeleLogiqueDonnees_1" Selected="Yes" Type="{5F45F978-C4F3-4E35-A3FC-AF3318663A0F}" URL="ModeleLogique de donnee.mld"/>
+	</Local>
+	<BrowserModule Name="Référentiel"/>
+</Workspace>
